@@ -11,12 +11,12 @@
  * Licensed under MIT (https://github.com/twbs/bootstrap/blob/main/LICENSE)
  */
 
- body {
+body {
   font-family: Arial, sans-serif;
 }
 .header {
   background-color: #1863b9;
-  color: white;
+  color: rgba(255, 255, 255, 0.491);
   padding: 40px 20px;
 }
 .header h1 {
@@ -42,7 +42,7 @@
   margin-top: 20px;
 }
 .footer {
-  background-color: #f5f5f5;
+  background-color: #6881b7;
   padding: 30px 20px;
   font-size: 14px;
 }
@@ -116,10 +116,10 @@ iframe {
   --bs-body-font-weight: 400;
   --bs-body-line-height: 1.5;
   --bs-body-color: #212529;
-  --bs-body-bg: #fff;
+  --bs-body-bg: #ffffff9a;
   --bs-border-width: 1px;
   --bs-border-style: solid;
-  --bs-border-color: #dee2e6;
+  --bs-border-color: #96bee7;
   --bs-border-color-translucent: rgba(0, 0, 0, 0.175);
   --bs-border-radius: 0.375rem;
   --bs-border-radius-sm: 0.25rem;
@@ -2586,7 +2586,7 @@ textarea.form-control-lg {
   color: #212529;
   text-align: center;
   white-space: nowrap;
-  background-color: #e9ecef;
+  background-color: #3e6993;
   border: 1px solid #ced4da;
   border-radius: 0.375rem;
 }
@@ -11119,7 +11119,7 @@ body {
   height: auto;
   min-height: 35rem;
   padding: 15rem 0;
-  background: linear-gradient(to bottom, rgba(0, 0, 0, 0.3) 0%, rgba(0, 0, 0, 0.7) 75%, blue 100%), url("/assets/img/Group-1-7-min-removebg-preview.png");
+  background: linear-gradient(to bottom, rgba(0, 0, 0, 0.3) 0%, rgba(0, 0, 0, 0.7) 75%, blue 100%), url("/assets/img/Group-1-7-min.png");
   background-position: center;
   background-repeat: no-repeat;
   background-attachment: scroll;
@@ -11193,7 +11193,7 @@ body {
 
 .signup-section {
   padding: 10rem 0;
-  background: linear-gradient(to bottom, rgba(0, 0, 0, 0.1) 0%, rgba(0, 0, 0, 0.5) 75%, blue 100%),H url("/assets/img/Group-1-7-min-removebg-preview.png");
+  background: linear-gradient(to bottom, rgba(0, 0, 0, 0.1) 0%, rgba(0, 0, 0, 0.5) 75%, blue 100%), url("/assets/img/gambar2.webp");
   background-position: center;
   background-repeat: no-repeat;
   background-attachment: scroll;
